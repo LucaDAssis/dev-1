@@ -1,0 +1,7 @@
+1 Comece com o que você está fazendo agora: o Kanban enfatiza não fazer qualquer alteração em sua configuração / processo existente imediatamente. O Kanban deve ser aplicado diretamente ao fluxo de trabalho atual. Quaisquer mudanças necessárias podem ocorrer gradualmente ao longo de um período de tempo em um ritmo com o qual a equipe esteja confortável.
+
+2 Concorde em buscar mudanças incrementais e evolutivas: o Kanban incentiva você a fazer pequenas mudanças incrementais em vez de fazer mudanças radicais que podem levar à resistência dentro da equipe e da organização.
+
+3 Inicialmente, respeite os papéis, responsabilidades e cargos atuais: ao contrário de outros métodos, o Kanban não impõe nenhuma mudança organizacional por si só. Portanto, não é necessário fazer alterações em suas funções existentes que possam ter um bom desempenho. A equipe identificará e implementará colaborativamente todas as alterações necessárias. Esses princípios ajudam as organizações a superar a típica resistência emocional e o medo que geralmente acompanham qualquer iniciativa de mudança em uma organização.
+
+4 Incentive atos de liderança em todos os níveis: Kanban incentiva a melhoria contínua em todos os níveis da organização e diz que os atos de liderança não têm que se originar apenas dos gerentes seniores. Pessoas de todos os níveis podem fornecer ideias e mostrar liderança para implementar mudanças para melhorar continuamente a forma como entregam seus produtos e serviços.
